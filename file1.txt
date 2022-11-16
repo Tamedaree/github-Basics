@@ -1,1 +1,2 @@
 this is my first file in git class.
+My second line in file 1
